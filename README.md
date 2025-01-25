@@ -1,1 +1,1 @@
-# react-practice
+# 자습
